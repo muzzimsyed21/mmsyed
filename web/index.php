@@ -1,20 +1,33 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
 
-require('../vendor/autoload.php');
+<!-- Head -->
+<?php include('includes/head.php'); ?>
 
-$app = new Silex\Application();
-$app['debug'] = true;
+<body data-spy="scroll">
 
-// Register the monolog logging service
-$app->register(new Silex\Provider\MonologServiceProvider(), array(
-  'monolog.logfile' => 'php://stderr',
-));
+<?php include('includes/menu.php') ?>
 
-// Our web handlers
+<!-- Section: intro -->
+<?php include('includes/intro.php') ?>
 
-$app->get('/', function() use($app) {
-  $app['monolog']->addDebug('logging output.');
-  return 'Hello';
-});
+<!-- Section: about -->
+<?php include('includes/about.php') ?>
 
-$app->run();
+<!-- Section: education -->
+<?php include('includes/education.php') ?>
+
+<!-- Section: works -->
+<?php include('includes/works.php') ?>
+
+<!-- Section: contact -->
+<?php include('includes/contact.php') ?>
+
+<!-- Section: footer -->
+<?php include('includes/footer.php') ?>
+
+<!-- Foot -->
+<?php include('includes/foot.php') ?>
+
+</body>
+</html>
