@@ -29,7 +29,7 @@
       				<div id="box-1" class="box">
 						<div id="bg-block" class="bg-block-1"></div>
 						<span class="caption simple-caption cap1">
-						<div class="title"> Project 1</div>
+						<div class="title">Ecommerce Movie Store</div>
 							<p>Project1 Info</p>
 						</span>
       				</div>
@@ -47,7 +47,7 @@
       				<div id="box-1" class="box">
 						<div id="bg-block" class="bg-block-1"></div>
 						<span class="caption simple-caption cap1">
-						<div class="title"> Project 2</div>
+						<div class="title"> Realtime Map </div>
 							<p>Project2 Info</p>						
 						</span>
       				</div>
