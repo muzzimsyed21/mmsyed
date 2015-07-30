@@ -37,14 +37,15 @@
   					front end user interface design. These combination of classes have allowed my to take interest in Web Development at both the front and back end. I am also interested in 
   					the development of software and computer information systems. 
 
-  					<br><br>  
+  					<br><br><br>
   					Aside from school I find thrill in working on web applications, programming different langauges and learning their conceptual differences. I also enjoy finding ways of how
   					technology can make the other activites I enjoy easier. Since I am always looking for ways to make exercising more efficient, I am interested in creating a technology that can 
   					help do so.   
 
-  					<br><br>
- 					Aside from technology I am also interested in sports such as football and basketball, working out, hiking, going to the beach, traveling and eating.
- 					
+  					<br><br><br>
+ 					Aside from anything tech related, I am interested in sports such as football and basketball, working out, hiking, going to the beach, traveling and eating. I have moved around alot 
+ 					being born in Chicago, living in Texas, and now residing in California. Being from Chicago, I am an avid fan of the city and its teams the Bears and the Bulls! 
+
   			</div>				
 		
 		</div>
