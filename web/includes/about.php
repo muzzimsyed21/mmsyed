@@ -34,7 +34,7 @@
 
   					I am currently a student at the University of California, Irvine where I'm in the process of pursuing a Bachelors Degree in Computer Science with a minor in Informatics. 
   					My specialization emphasizes Information Systems where I learned from courses such as database management and information retrieval. Additionally, I have taken courses in 
-  					front end user interface design. These combination of classes have allowed my to take interest in Web Development at both the front and back end. I am also interested in 
+  					front end user interface design. These combination of classes have allowed me to take interest in Web Development at both the front and back end. I am also interested in 
   					the development of software and computer information systems. 
 
   					<br><br><br>
