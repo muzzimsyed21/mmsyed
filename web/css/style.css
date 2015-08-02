@@ -635,6 +635,7 @@ input.gn-search:focus {
 }
 #mainwrapper .box .simple-caption p{
   display:none;
+  font-size: 6px; 
 }
 
 /* Image Box Style */
