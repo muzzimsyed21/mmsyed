@@ -31,7 +31,7 @@
 						<span class="caption simple-caption cap1">
 						<div class="title">Personal Website</div>
 							<p>The website you currently see was developed using bootstrap CSS...
-								It will continue to be developed to produce features such as animation as I learn more as well
+								It will continue to be developed to produce features such as animation as well
 								as keeping content up to date.  	
 							</p>
 						</span>
@@ -50,7 +50,7 @@
       				<div id="box-1" class="box">
 						<div id="bg-block" class="bg-block-1"></div>
 						<span class="caption simple-caption cap1">
-						<div class="title"> Realtime Map </div>
+						<div class="title"> E-Commerce Movie Store </div>
 							<p>Project2 Info</p>						
 						</span>
       				</div>
@@ -68,7 +68,7 @@
       				<div id="box-1" class="box">
 						<div id="bg-block" class="bg-block-1"></div>
 						<span class="caption simple-caption cap1">
-						<div class="title"> Project 3</div>
+						<div class="title"> Realtime Map </div>
 							<p>Project3 Info</p>						
 						</span>
       				</div>

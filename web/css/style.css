@@ -648,7 +648,7 @@ input.gn-search:focus {
 	overflow: hidden;
 	width: 310px;
 }
-#mainwrapper .box #bg-block{
+#mainwrapper .box .bg-block-1{
   position: absolute;
   background-repeat:no-repeat;
   background-size:100% 100%;
@@ -716,9 +716,16 @@ input.gn-search:focus {
       opacity: 0.8;
 }
 
-#mainwrapper .box .bg-block-1{
+#mainwrapper .box #bg-block{
   background-image:url("../img/personalSite.png");
-  background-color:rgba(26, 167, 88, 1);
+}
+
+#mainwrapper .box #bg-block-2{
+  background-color: #1a1a1a; 
+}
+
+#mainwrapper .box #bg-block-3{
+  background-color: #1a1a1a;
 }
 
 /* ===========================
