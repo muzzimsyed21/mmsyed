@@ -88,7 +88,7 @@
 				<!-- Image Caption 1 -->
 				<a href="#works">
       				<div id="box-1" class="box">
-						<div id="bg-block" class="bg-block-1"></div>
+						<div id="bg-block-3" class="bg-block-1"></div>
 						<span class="caption simple-caption cap1">
 						<div class="title"> Project 1</div>
 							<p>Project1 Info</p>
@@ -106,7 +106,7 @@
 				<!-- Image Caption 1 -->
 				<a href="#works">
       				<div id="box-1" class="box">
-						<div id="bg-block" class="bg-block-1"></div>
+						<div id="bg-block-3" class="bg-block-1"></div>
 						<span class="caption simple-caption cap1">
 						<div class="title"> Project 2</div>
 							<p>Project2 Info</p>						
@@ -124,7 +124,7 @@
 				<!-- Image Caption 1 -->
 				<a href="#works">
       				<div id="box-1" class="box">
-						<div id="bg-block" class="bg-block-1"></div>
+						<div id="bg-block-3" class="bg-block-1"></div>
 						<span class="caption simple-caption cap1">
 						<div class="title"> Project 3</div>
 							<p>Project3 Info</p>						
